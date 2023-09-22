@@ -115,7 +115,7 @@ footer {
   padding: 10px;
 }
 
-@media (min-width: 641px) and (max-width: 1023px) {
+@media (max-width: 1023px) {
   .products .ball {
     margin-bottom: 28px;
   }
